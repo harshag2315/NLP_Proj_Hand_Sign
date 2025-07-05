@@ -1,3 +1,4 @@
 This folder contains training related data -
 kaggle link - https://www.kaggle.com/code/harshag2315/handsignrecognitiontrainingcode
 Dataset (custom) - https://www.kaggle.com/datasets/harshag2315/data-set-img
+rotate_resize_BW.ipynb - it is the code used to convert raw simple images to complex so that model can analyze more
